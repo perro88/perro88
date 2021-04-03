@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello I'm Jimmy 👋
+
+I've spent years in the mining and drilling industry's and have decided to expand my skill set.  
+I'm currently studying at Coders Academy in Brisbane.
+
+<img align= "right"> ![](undergroundpic.jpg)
 
 <!--
 **perro88/perro88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
